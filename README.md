@@ -7,7 +7,7 @@ We currenently release the pytorch version code for:
 - ImageNet-1k classification
 - Object detection on COCO
 
-Our repository is based on [DeiT](https://github.com/peternara/deit-Transformers).
+Our repository is based on [DeiT](https://github.com/peternara/deit-Transformers), [timm](https://github.com/huggingface/pytorch-image-models), [mmdet](https://github.com/open-mmlab/mmdetection) and [PVT](https://github.com/whai362/PVT).
 
 ## Requirements:
 1. Image classification:
@@ -16,7 +16,7 @@ Our repository is based on [DeiT](https://github.com/peternara/deit-Transformers
     - mmcv-full 1.4.0 and mmdet 2.22.0
   
 ## Acknowledgement
-This respository is built based on [DeiT](https://github.com/peternara/deit-Transformers), [timm](https://github.com/huggingface/pytorch-image-models) and [mmdet](https://github.com/open-mmlab/mmdetection).
+This respository is built based on [DeiT](https://github.com/peternara/deit-Transformers), [timm](https://github.com/huggingface/pytorch-image-models), [mmdet](https://github.com/open-mmlab/mmdetection) and [PVT](https://github.com/whai362/PVT).
 
 
 ## Citation 
