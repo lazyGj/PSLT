@@ -26,7 +26,7 @@ If you use this code for a paper, please cite:
 @article{wu2023pslt,
 title = {PSLT: A Light-weight Vision Transformer with Ladder Self-Attention and Progressive Shift},
 author = {Gaojie Wu, Wei-Shi Zheng, Yutong Lu and Qi Tian},
-journal = {{IEEE} Transaction on Pattern Analysis and Machine Intelligence},
+journal = {IEEE Transaction on Pattern Analysis and Machine Intelligence},
 year = {2023}
 }
 ```
