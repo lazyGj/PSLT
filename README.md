@@ -1,7 +1,7 @@
 # PSLT
 
 Official Pytorch implementation of IEEE Transaction on Pattern Analysis and Machine Intelligence 2023, PSLT: A Light-weight Vision Transformer with
-Ladder Self-Attention and Progressive Shift. Please refer to [paper](https://arxiv.org/abs/2304.03481) and [project page](https://isee-ai.cn/wugaojie/PSLT.html) for more details.
+Ladder Self-Attention and Progressive Shift. Please refer to [paper](https://arxiv.org/abs/2304.03481) and [project page](https://isee-ai.cn/wugaojie/PSLT.html) for more details. The optimized models can be found in the [project page](https://isee-ai.cn/wugaojie/PSLT.html).
 
 We currenently release the pytorch version code for:
 - ImageNet-1k classification
